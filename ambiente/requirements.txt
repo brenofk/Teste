@@ -1,3 +1,4 @@
 Django>=3.0,<5.0
 djangorestframework>=3.11.0
 face_recognition
+# pip install django-cors-headers
